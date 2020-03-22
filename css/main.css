@@ -1,0 +1,100 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+html{
+  width: 100%;
+  height: 100%;
+}
+body{
+  font-family: "微软雅黑";
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  background-image:url(http://www.flyzhangyx.com/pic.php/);
+  background-size: cover;
+  background-position: center center;
+}
+.hint{
+  padding-top: 30px;
+  color: #ff2e2e;
+  font-size: 18px;
+
+}
+.navigation{
+  position: relative;
+  width: 100%;
+  height: 85%;
+  top:10%;
+  bottom: 5%;
+}
+.me-pic{
+  width: 70%;
+  padding-left: 30px;
+  padding-right: 30px;
+  height: 60%;
+  max-width: 480px;
+}
+.footer {
+    background: #3d93b6;
+    border-top: 8px solid #d56464;
+    position: relative;
+}
+.footer-inner {
+    max-width: 1226px;
+    padding: 16px 20px 14px;
+    margin: 0 auto;
+    color: #aaa;
+    text-shadow: 0 -1px 0 #333;
+}
+.footer .footer-inner
+.copyright {
+    text-align: center;
+    float: none!important;
+}
+.Myname{
+  overflow:hidden;
+  position: relative;
+  width: 100%;
+  height: 30%;
+}
+.Mycontact{
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  height: 30%;
+}
+.ul1{
+  list-style-type:none;
+  overflow:hidden;
+  position: relative;
+  width: 80%;
+  left: 10%;
+  right: 10%;
+}
+.li1{
+  text-decoration: none;
+  color: #FFFFFF;
+  position: relative;
+  display:inline-table;
+  width: 20%;
+}
+.li1:hover
+{
+  text-decoration: none;
+}
+.pic{
+  width: 50%;
+  height: 100%;
+}
+.pic:hover{
+  height: 70%;
+  width: 70%;
+}
+.movie{
+  position: relative;
+  width: 50%;
+  left:25%;
+  right: 25%;
+  height: 40%;
+}
